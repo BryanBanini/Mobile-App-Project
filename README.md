@@ -1,2 +1,2 @@
-# CSM-158-C-plus-plus-
-# Mobile-App-Project
+Devhive App repository.
+All codes should be pushed to this repository
